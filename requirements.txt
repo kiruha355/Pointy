@@ -1,0 +1,10 @@
+pydantic-ai>=0.0.54
+pydantic>=2.7.4
+litellm>=1.40.28
+httpx>=0.27.0
+python-dotenv>=1.0.1
+openai>=1.30.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+instructor>=1.0.0

@@ -1,0 +1,34 @@
+{
+  "query": "места для отдыха",
+  "timestamp": "2026-04-25T07:29:32.674981",
+  "source": "2GIS Places API",
+  "source_url": "https://catalog.api.2gis.com/3.0/items",
+  "results_count": 1,
+  "places": [
+    {
+      "name": "Место, агентство недвижимости",
+      "address": "Ленинградский проспект, 36 ст11",
+      "lat": 55.788235,
+      "lon": 37.567873,
+      "rating": null,
+      "hours": "Пн 00:00–24:00, Вт 00:00–24:00, Ср 00:00–24:00, Чт 00:00–24:00, Пт 00:00–24:00, Сб 00:00–24:00, Вс 00:00–24:00",
+      "has_outlets": null,
+      "noise_level": null,
+      "description": null,
+      "rubrics": [
+        "Агентства недвижимости"
+      ],
+      "maps_url": "https://2gis.ru/moscow/search/Место, агентство недвижимости",
+      "phone": null,
+      "website": null,
+      "price_level": null,
+      "photos_count": 0,
+      "reviews_count": 0,
+      "is_verified": false,
+      "has_wifi": null,
+      "good_for_work": null,
+      "is_open_now": null,
+      "recent_reviews_count": 0
+    }
+  ]
+}

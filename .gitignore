@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Env
+.env
+
+# Кеш запросов к API (не коммитим)
+data/cache_*.json
+
+# Карты (генерируются при запуске)
+outputs/
+
+# IDE
+.vscode/
+.idea/
